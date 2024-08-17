@@ -1,6 +1,9 @@
 # Grub Guide
 
+**Check out the live website [here](https://iiits-sosenkkk.vercel.app/).**
+
 Grub Guide is a sleek and intuitive web application designed to help users discover the best restaurants in their area. Built with modern web technologies, it provides a seamless experience with both light and dark modes, ensuring a visually appealing interface for all users.
+
 
 ## Features
 
