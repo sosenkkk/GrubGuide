@@ -17,7 +17,7 @@ export default function Home() {
       <Head>
         <title>GrubGuide - Discover Your Favorite Restaurants</title>
       </Head>
-      <div className=" pt-8  text-black dark:text-white">
+      <div className=" pt-8 flex w-full min-h-90 items-center justify-center text-black dark:text-white">
         <div className="bg-green-200 dark:bg-[#41B06E] relative min-h-[450px] p-8  m-8 mt-20 sm:m-20 rounded-xl">
           <div className="w-full flex-col md:flex-row flex min-h-[450px] gap-4 items-center justify-center">
             <Section className=" text-center md:text-left w-full sm:w-3/4 p-8   ">
